@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='base-agent',
-    version='0.1.1',
+    version='2025.5.180920',
     author='Eugene Evstafev',
     author_email='chigwel@gmail.com',
     description='An abstract base class for building various agent-based systems.',
